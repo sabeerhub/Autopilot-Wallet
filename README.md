@@ -44,3 +44,4 @@ Everything happens securely on-chain — your BDAG never leaves your wallet with
 
 ## 📁 Folder Structure
 
+autopilot-wallet/ ├── frontend/        # React UI + Wallet logic ├── contracts/       # Smart contract for BDAG batch send ├── docs/            # Documentation, visuals, and notes └── README.md        # You’re here!
