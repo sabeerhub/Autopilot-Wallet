@@ -10,8 +10,6 @@
 **Autopilot Wallet** is a BDAG airdrop automation tool built for the **BlockDAG network**.  
 It helps users and project owners send BDAG tokens to multiple wallet addresses instantly with just one click.  
 
-No code. No confusion. Just automation.
-
 ---
 
 ## 🧠 Core Idea  
