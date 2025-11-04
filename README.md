@@ -38,6 +38,6 @@ Everything happens securely on-chain — your BDAG never leaves your wallet with
 - **Frontend:** React + TailwindCSS + Ethers.js  
 - **Wallet:** MetaMask (connected to BDAG network)  
 - **Smart Contract:** BDAG batch airdrop contract  
-- **Hosting:** Vercel / Netlify  
+- **Hosting:** Vercel / Netlify 
 
 ---
