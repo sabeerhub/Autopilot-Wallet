@@ -41,6 +41,13 @@ Everything happens securely on-chain — your BDAG never leaves your wallet with
 - **Hosting:** Vercel / Netlify (Demo-link)
 
 ---
+
+## 🎨 Whiteboard Diagram
+
+- Whiteboard-Diagram.jpg
+- Behavioral-structure.jpg
+---
+
 ## 🎥 Video Script
 
    Hi, I'm building Autopilot Wallet - the automated BDAG airdrop solution.
