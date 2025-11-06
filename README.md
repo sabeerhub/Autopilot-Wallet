@@ -53,7 +53,7 @@ Everything happens securely on-chain — your BDAG never leaves your wallet with
 
 **Vision**: Make token distribution as easy as sending an email.
 
-**Video Link**: https:youtube.com/sabeer_CoreX/2Yu7e3xq
+**Video Link**: https://youtube.com/sabeer_CoreX/2Yu7e3xq
 
 ---
 ## ⚙️ Deployment Info
