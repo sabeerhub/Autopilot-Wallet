@@ -42,13 +42,18 @@ Everything happens securely on-chain — your BDAG never leaves your wallet with
 
 ---
 ## 🎥 Video Script
+
    Hi, I'm building Autopilot Wallet - the automated BDAG airdrop solution.
+   
 **Problem**: Distributing tokens to hundreds of wallets manually takes hours and risks errors.
+
 **Solution**: One-click bulk airdrops with CSV upload, preview, and automated execution.
+
 **Why BlockDAG?** Leveraging BDAG's parallel processing for faster, cheaper transactions.
+
 **Vision**: Make token distribution as easy as sending an email.
 
-Video Link: (https:youtube.com/sabeer_CoreX/2Yu7e3xq)
+**Video Link**: https:youtube.com/sabeer_CoreX/2Yu7e3xq
 
 ---
 ## ⚙️ Deployment Info
