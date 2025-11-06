@@ -38,6 +38,20 @@ Everything happens securely on-chain — your BDAG never leaves your wallet with
 - **Frontend:** React + TailwindCSS + Ethers.js  
 - **Wallet:** MetaMask (connected to BDAG network)  
 - **Smart Contract:** BDAG batch airdrop contract  
-- **Hosting:** Vercel / Netlify 
+- **Hosting:** Vercel / Netlify (Demo-link)
 
 ---
+## 🎥 Video Script
+   Hi, I'm building Autopilot Wallet - the automated BDAG airdrop solution.
+**Problem**: Distributing tokens to hundreds of wallets manually takes hours and risks errors.
+**Solution**: One-click bulk airdrops with CSV upload, preview, and automated execution.
+**Why BlockDAG?** Leveraging BDAG's parallel processing for faster, cheaper transactions.
+**Vision**: Make token distribution as easy as sending an email.
+
+Video Link: (https:youtube.com/sabeer_CoreX/2Yu7e3xq)
+
+---
+## ⚙️ Deployment Info
+Network:BlockDAG Awakening Testnet RPC: https://rpc.awakening.bdagscan.com Chain ID: 1043 Explorer: https://awakening.bdagscan.com
+
+(Insert contract addresses after deployment.)
