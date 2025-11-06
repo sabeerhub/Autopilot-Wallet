@@ -64,6 +64,9 @@ Everything happens securely on-chain — your BDAG never leaves your wallet with
 
 ---
 ## ⚙️ Deployment Info
-Network:BlockDAG Awakening Testnet RPC: https://rpc.awakening.bdagscan.com Chain ID: 1043 Explorer: https://awakening.bdagscan.com
+Network:BlockDAG 
+Awakening Testnet RPC: https://rpc.awakening.bdagscan.com 
+Chain ID: 1043 
+Explorer: https://awakening.bdagscan.com
 
 (Insert contract addresses after deployment.)
