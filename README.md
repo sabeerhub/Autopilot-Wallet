@@ -68,6 +68,7 @@ Everything happens securely on-chain — your BDAG never leaves your wallet with
 
 The project is organized with a focus on modularity and clarity.
 
+```
 /
 ├── contracts/
 │   └── Airdrop.sol         # The Solidity smart contract
@@ -83,7 +84,7 @@ The project is organized with a focus on modularity and clarity.
 │   └── constants.ts        # Contract address and ABI
 ├── index.html              # Main HTML file
 └── README.md               # You are here!
-
+```
 ---
 ## ⚙️ Deployment Info
 
