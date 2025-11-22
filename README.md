@@ -63,6 +63,28 @@ Everything happens securely on-chain — your BDAG never leaves your wallet with
 **Video Link**: https://youtube.com/sabeer_CoreX/2Yu7e3xq
 
 ---
+
+## 🏗️ Project Structure
+
+The project is organized with a focus on modularity and clarity.
+
+/
+├── contracts/
+│   └── Airdrop.sol         # The Solidity smart contract
+├── public/
+│   └── favicon.svg         # App icon
+├── src/
+│   ├── components/         # Reusable React components
+│   ├── hooks/              # Custom React hooks (e.g., useWallet)
+│   ├── utils/              # Utility functions (e.g., pdfGenerator)
+│   ├── App.tsx             # Main application component
+│   ├── index.tsx           # React entry point
+│   ├── types.ts            # TypeScript type definitions
+│   └── constants.ts        # Contract address and ABI
+├── index.html              # Main HTML file
+└── README.md               # You are here!
+
+---
 ## ⚙️ Deployment Info
 
 Network:BlockDAG 
